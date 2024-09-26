@@ -42,7 +42,7 @@ env:
 
 permissions:
   contents: read
-  id-toke: write
+  id-token: write
 
 jobs:
   deploy:
