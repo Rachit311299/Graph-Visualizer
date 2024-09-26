@@ -1,4 +1,4 @@
-# GraphViz - Interactive Graph Visualization
+# Graph Visualization Tool
 
 
 ## 📊 Overview
@@ -37,10 +37,6 @@ To run this project locally, follow these steps:
     ```bash
     open index.html
     ```
-
-## 🌐 Live Demo
-
-Check out the live demo [here](https://pvbgeek.github.io/graphviz/).
 
 ## 📚 Usage
 
