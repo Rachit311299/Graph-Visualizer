@@ -1,0 +1,22 @@
+# Node modules (if you're using npm)
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+*.swp
+*.swo
+.vscode/
+
+# Logs
+*.log
+
+# Build output
+dist/
+build/
+
+# Docker
+.dockerignore
