@@ -1,40 +1,77 @@
-# Graph Visualization Tool
+# GraphViz - Interactive Graph Visualization
 
-## Description
-This project is an interactive graph visualization tool built with D3.js. It allows users to input graph data, visualize the graph structure, and interact with the graph in real-time.
+![GraphViz Banner](https://github.com/pvbgeek/graphviz/blob/main/Banner.png)
 
-## Features
-- Dynamic graph visualization based on user input
-- Support for both directed and undirected graphs
-- Interactive node dragging for custom layout
-- Automatic layout using D3.js force simulation
-- Real-time updates of node count
-- Responsive design with boundary constraints
+## 📊 Overview
 
-## How to Use
-1. Input your graph data in the textarea. Each line should represent an edge, with nodes separated by a space.
-   Example:
-   ```
-   A B
-   B C
-   C A
-   ```
-2. Choose between directed and undirected graph using the checkbox.
-3. Click "Update Graph" to visualize your graph.
-4. Drag nodes to adjust their positions manually.
+GraphViz is an interactive graph visualization tool that allows users to create, edit, and visualize both directed and undirected graphs. Built using D3.js, HTML, and CSS, this tool is perfect for educational purposes and visualizing complex networks.
 
-## Installation
-1. Clone this repository:
-   ```
-   git clone https://github.com/yourusername/graph-visualization-tool.git
-   ```
-2. Open `index.html` in your web browser.
+## 🚀 Features
 
-## Dependencies
-- D3.js (v7 or later)
+- **Interactive Graphs**: Add nodes and edges dynamically and see real-time updates.
+- **Directed and Undirected Graphs**: Toggle between directed and undirected graph modes.
+- **Drag and Drop Nodes**: Easily rearrange nodes by dragging them to desired positions.
+- **Customizable UI**: Visually appealing design with a gradient background and modern UI elements.
+- **Responsive Design**: Optimized for various screen sizes and devices.
 
-## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/graph-visualization-tool/issues) if you want to contribute.
+## 📸 Screenshots
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+![GraphViz Screenshot](https://github.com/pvbgeek/graphviz/blob/main/Screenshot.png)
+
+## 🛠️ Technologies Used
+
+- **D3.js**: For creating and manipulating the SVG graph elements.
+- **HTML5 & CSS3**: For the structure and styling of the application.
+- **JavaScript**: For the interactive functionality.
+
+## 📦 Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/pvbgeek/graphviz.git
+    cd graphviz
+    ```
+
+2. **Open `index.html` in your browser:**
+    ```bash
+    open index.html
+    ```
+
+## 🌐 Live Demo
+
+Check out the live demo [here](https://pvbgeek.github.io/graphviz/).
+
+## 📚 Usage
+
+1. **Add Nodes and Edges:**
+    - Enter the edges in the "Graph Data" textarea in the format `source target`.
+    - Click "Update Graph" to visualize the graph.
+
+2. **Toggle Graph Type:**
+    - Use the "Undirected" and "Directed" buttons to switch between graph types.
+
+3. **Drag and Drop Nodes:**
+    - Hover over a node until the cursor changes.
+    - Click and drag the node to reposition it.
+
+## 🎨 Customization
+
+Feel free to customize the styles and functionality as per your needs. The styles are defined in `styles.css`, and the interactive logic is in `script.js`.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request for any features, bug fixes, or improvements.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 📧 Contact
+
+For any questions or suggestions, feel free to open an issue or contact me at [pvbcod@gmail.com](mailto:pvbcod@gmail.com).
+
+---
+
+Thank you for using GraphViz! Happy Visualizing! 🎉
