@@ -1,6 +1,5 @@
 # GraphViz - Interactive Graph Visualization
 
-![GraphViz Banner](https://github.com/pvbgeek/graphviz/blob/main/Banner.png)
 
 ## 📊 Overview
 
