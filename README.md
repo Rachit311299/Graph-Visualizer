@@ -1,6 +1,6 @@
 # GraphViz - Interactive Graph Visualization
 
-![GraphViz Banner](https://github.com/pvbgeek/graphviz/blob/main/Banner.png)
+
 
 ## 📊 Overview
 
@@ -39,9 +39,6 @@ To run this project locally, follow these steps:
     open index.html
     ```
 
-## 🌐 Live Demo
-
-Check out the live demo [here](https://pvbgeek.github.io/graphviz/).
 
 ## 📚 Usage
 
