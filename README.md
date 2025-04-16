@@ -1,4 +1,4 @@
-# GraphViz - Interactive Graph Visualization
+# GraphVisualizer - Interactive Graph Visualization
 
 
 
@@ -30,8 +30,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/pvbgeek/graphviz.git
-    cd graphviz
+    git clone https://github.com/Rachit311299/Graph-Visualizer.git
+    cd Graph-Visualizer
     ```
 
 2. **Open `index.html` in your browser:**
